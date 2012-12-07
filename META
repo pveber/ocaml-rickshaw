@@ -1,0 +1,5 @@
+version = "0.1"
+description = "Js_of_ocaml bindings for Rickshaw"
+archive(byte) = "rickshaw.cma"
+archive(byte, plugin) = "rickshaw.cma"
+exists_if = "rickshaw.cma"
